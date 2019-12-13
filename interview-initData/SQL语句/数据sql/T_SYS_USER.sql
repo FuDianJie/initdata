@@ -1,0 +1,3 @@
+﻿
+insert into T_SYS_USER (ID, USER_NAME, USER_PWD, SALT, CORRESPONDING_ROLE, EMAIL, AREA, START_DATE, END_DATE, STATUS, CNAME, CTIME, CHNAME, MTIME, DELETED, ROLE_ID, SEND_EMAIL)
+values ('1', 'admin', 'bec7e5f72f5d7a7e2cc6a519932f7b8f3eb88931e5c9706c389b0a58041a42d2', 'e534321e96314f5a915aa3b39801b1fb', '1dc46a20bc1f4d68a05e22ebdfb666ba', 'admin@qq.com', null, to_date('27-10-2019', 'dd-mm-yyyy'), null, 1, 'a572d2c2035747c9862314a1022a570a', '12-11月-19 10.05.19.513000 上午', null, null, 0, 'admin', 1);
